@@ -2,7 +2,7 @@
 
 This is a simple game made using Python Turtle graphics library. The objective of the game is to make the turtle safely cross the street while avoiding the cars. The turtle can move forward using the up arrow key.
 
-![cross.gif](..%2F..%2FOneDrive%2FRadna%20povr%9Aina%2Fcross.gif)
+![cross](https://user-images.githubusercontent.com/108518278/231682325-c738a624-9dd6-44a2-87d4-e9d7758515c5.gif)
 
 ## Requirements 
 - Python 3.x
