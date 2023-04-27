@@ -1,4 +1,4 @@
-# Crossing the Street Game
+# Cross the Street 
 
 This is a simple game made using Python Turtle graphics library. The objective of the game is to make the turtle safely cross the street while avoiding the cars. The turtle can move forward using the up arrow key.
 
